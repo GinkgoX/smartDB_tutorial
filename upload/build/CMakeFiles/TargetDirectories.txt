@@ -1,0 +1,5 @@
+C:/Users/maxwe/Desktop/sqlite/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/maxwe/Desktop/sqlite/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/maxwe/Desktop/sqlite/build/src/CMakeFiles/sqlite3.dir
+C:/Users/maxwe/Desktop/sqlite/build/src/CMakeFiles/rapidjson.dir
+C:/Users/maxwe/Desktop/sqlite/build/src/CMakeFiles/main.dir

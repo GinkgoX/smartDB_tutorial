@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "type_traits": "cpp",
+        "functional": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp"
+    }
+}
